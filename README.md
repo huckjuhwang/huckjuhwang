@@ -1,5 +1,5 @@
 
-## Hi there, I'm [Huckhu Hawng](https://elfin-park-f2a.notion.site/c2063afa319e4062a39c98f7f0f4dba9) 👋
+## Hi there, I'm [HuckJu Hawng](https://elfin-park-f2a.notion.site/c2063afa319e4062a39c98f7f0f4dba9) 👋
 - 안녕하세요! 결과도 중요하지만, 무엇보다 '과정 속에서 얻는 깨달음'을 좋아하는 개발자 입니다.
 
 ### ✨ Blog & Note
