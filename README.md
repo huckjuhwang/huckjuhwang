@@ -8,5 +8,5 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huckjuhwang)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=skygurwn96)](https://solved.ac/skygurwn96)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=skygurwn96)](https://solved.ac/skygurwn96)
 
